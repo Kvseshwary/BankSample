@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Sai\\Projects\\MyBankApp\\MyBankApp\\MyBankApp.csproj": {}
+    "F:\\Sai\\Projects\\MyBankApp\\MyBankApp.csproj": {}
   },
   "projects": {
-    "F:\\Sai\\Projects\\MyBankApp\\MyBankApp\\MyBankApp.csproj": {
+    "F:\\Sai\\Projects\\MyBankApp\\MyBankApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Sai\\Projects\\MyBankApp\\MyBankApp\\MyBankApp.csproj",
+        "projectUniqueName": "F:\\Sai\\Projects\\MyBankApp\\MyBankApp.csproj",
         "projectName": "MyBankApp",
-        "projectPath": "F:\\Sai\\Projects\\MyBankApp\\MyBankApp\\MyBankApp.csproj",
+        "projectPath": "F:\\Sai\\Projects\\MyBankApp\\MyBankApp.csproj",
         "packagesPath": "C:\\Users\\jeris\\.nuget\\packages\\",
-        "outputPath": "F:\\Sai\\Projects\\MyBankApp\\MyBankApp\\obj\\",
+        "outputPath": "F:\\Sai\\Projects\\MyBankApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

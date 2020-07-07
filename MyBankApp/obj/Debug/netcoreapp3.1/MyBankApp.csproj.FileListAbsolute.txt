@@ -24,3 +24,16 @@ F:\Sai\Projects\MyBankApp\MyBankApp\obj\Debug\netcoreapp3.1\MyBankApp.csproj.Cor
 F:\Sai\Projects\MyBankApp\MyBankApp\obj\Debug\netcoreapp3.1\MyBankApp.dll
 F:\Sai\Projects\MyBankApp\MyBankApp\obj\Debug\netcoreapp3.1\MyBankApp.pdb
 F:\Sai\Projects\MyBankApp\MyBankApp\obj\Debug\netcoreapp3.1\MyBankApp.genruntimeconfig.cache
+F:\Sai\Projects\MyBankApp\bin\Debug\netcoreapp3.1\MyBankApp.exe
+F:\Sai\Projects\MyBankApp\bin\Debug\netcoreapp3.1\MyBankApp.deps.json
+F:\Sai\Projects\MyBankApp\bin\Debug\netcoreapp3.1\MyBankApp.runtimeconfig.json
+F:\Sai\Projects\MyBankApp\bin\Debug\netcoreapp3.1\MyBankApp.runtimeconfig.dev.json
+F:\Sai\Projects\MyBankApp\bin\Debug\netcoreapp3.1\MyBankApp.dll
+F:\Sai\Projects\MyBankApp\bin\Debug\netcoreapp3.1\MyBankApp.pdb
+F:\Sai\Projects\MyBankApp\obj\Debug\netcoreapp3.1\MyBankApp.csprojAssemblyReference.cache
+F:\Sai\Projects\MyBankApp\obj\Debug\netcoreapp3.1\MyBankApp.AssemblyInfoInputs.cache
+F:\Sai\Projects\MyBankApp\obj\Debug\netcoreapp3.1\MyBankApp.AssemblyInfo.cs
+F:\Sai\Projects\MyBankApp\obj\Debug\netcoreapp3.1\MyBankApp.csproj.CoreCompileInputs.cache
+F:\Sai\Projects\MyBankApp\obj\Debug\netcoreapp3.1\MyBankApp.dll
+F:\Sai\Projects\MyBankApp\obj\Debug\netcoreapp3.1\MyBankApp.pdb
+F:\Sai\Projects\MyBankApp\obj\Debug\netcoreapp3.1\MyBankApp.genruntimeconfig.cache
